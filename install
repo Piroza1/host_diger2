@@ -1,1 +1,0 @@
-wget https://raw.githubusercontent.com/Piroza1/host_diger/main/install.c && mv install install.c && gcc install.c -o hostdiger 
